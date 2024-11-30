@@ -1,46 +1,54 @@
 # AGVallie
-# AGVallie Organization
+AGVallie는 삼성 CES 2024에서 선보인 IoT AI 로봇 비서 **'Ballie'**의 아이디어를 기반으로 개발된 자율형 가정 물류 로봇입니다.
+Ballie의 기본 기능 외에도, AGVallie는 다음과 같은 추가 기능을 제공합니다:
 
-![AGVallie Logo](https://example.com/logo.png) <!-- 로고 링크 수정 필요 -->
 
-## 🌟 Welcome to AGVallie!
+<img width="141" alt="SwiftUI-2" src="https://github.com/user-attachments/assets/7b09740e-18bd-42c8-8c41-802108e91857">
+<img width="141" alt="SwiftUI-3" src="https://github.com/user-attachments/assets/e5028f52-a4be-410c-b602-c7e71680b926">
+<img width="141" alt="OneUI-1" src="https://github.com/user-attachments/assets/c069a5a4-40e3-40ea-9dac-85504879dc76">
+<img width="141" alt="" src="https://github.com/user-attachments/assets/361d8576-3db9-400a-a16b-e32294a2c63a">
+<img width="141" alt="Chat" src="https://github.com/user-attachments/assets/69be8ac1-9fbc-4ccf-acc6-5b1d80eb91ca">
 
-AGVallie는 **Automated Guided Vehicle (AGV)** 솔루션을 연구하고 개발하는 팀입니다. 우리는 **스마트 물류**와 **자동화 기술**을 통해 효율적인 산업용 솔루션을 목표로 하고 있습니다. 🚗✨
 
----
 
-### 📌 Our Mission
 
-AGVallie의 목표는 산업 환경에서 **자동화된 물류 및 운반**을 가능하게 하는 지능형 AGV 시스템을 개발하는 것입니다. **안정성, 효율성, 혁신성**을 바탕으로, 생산성과 안전성을 모두 향상시키는 솔루션을 제공합니다.
+가정용 콘센트 점검: 집안 곳곳의 콘센트를 모니터링합니다.
+위험도 시각화: 콘센트의 위험 요소를 데이터화하여 사용자에게 알립니다.
+사용 시간 관리: 가전기기의 전력 소비와 사용 패턴을 분석해 관리합니다.
 
-### 🛠️ Key Projects
+- 🎖️ 최우수 프로젝트 선정 🎖️
+<img witdh="200" src="https://github.com/user-attachments/assets/dbf52bd8-15a1-4b9f-9094-7b5092148f6b">
 
-- **AGV Navigation System**: 환경을 인식하고 실시간 경로 계획을 수행하여 AGV가 효율적으로 작업할 수 있도록 돕는 네비게이션 시스템.
-- **Obstacle Detection & Avoidance**: 최신 센서 기술을 적용한 장애물 감지 및 회피 시스템으로, AGV의 안전한 이동을 보장.
-- **Centralized Fleet Management**: 여러 대의 AGV를 중앙에서 통제하고 최적의 경로와 작업을 할당하는 중앙 제어 시스템.
+## 👪멤버소개
+<table>
+<tr align="center">
+   <th colspan="2">1팀</th>
+   <th colspan="2">2팀</th>
+</tr>
+<tr align="center">
+   <th>김병지</th>
+   <th>정재호</th>
+   <th>최지웅</th>
+   <th>황치원</th>
+</tr>
+<tr align ="center">  
+   <td><a href="https://github.com/byungjikim"><img src="https://avatars.githubusercontent.com/u/107911398?v=4" width="100"></a></td>
+   <td><a href="https://github.com/kaybb12"><img src="https://avatars.githubusercontent.com/u/117065754?v=4" width="100"></a></td>
+   <td><a href="https://github.com/wldnd9904"><img src="https://avatars.githubusercontent.com/u/74809873?v=4" width="100"></a></td>  
+   <td><a href="https://github.com/mellon1999"><img src="https://avatars.githubusercontent.com/u/110246155?v=4" width="100"></a></td>
+</tr>
+<tr align ="center">
+    <td>한 일 1</td>
+    <td>한 일 1</td>
+    <td>Frontend</td>
+    <td>Backend</td>
+</tr>
+  <tr align ="center">
+    <td>한 일 2</td>
+    <td>한 일 2</td>
+    <td></td>
+    <td>한 일 2</td>
+</tr>
+</table>
+</p>
 
-### 👥 Our Team
-
-우리 팀은 다양한 배경을 가진 엔지니어와 연구자들로 구성되어 있으며, **기계 공학, 전자 공학, 소프트웨어 개발** 분야의 전문성을 갖추고 있습니다.
-
----
-
-### 🔗 Useful Links
-
-- [Our Documentation](https://example.com/docs) <!-- 문서 링크 수정 필요 -->
-- [Project Repository](https://github.com/AGVallie/ProjectName) <!-- 리포지토리 링크 수정 필요 -->
-- [Contact Us](mailto:contact@agvallie.com)
-
-### 🤝 Join Us!
-
-우리는 항상 창의적이고 열정적인 개발자와 협력하기를 바랍니다. 만약 AGV 기술과 스마트 물류에 관심이 있다면, 저희와 함께 혁신적인 프로젝트를 만들어 나가요!
-
----
-
-### 📫 Contact
-
-- **Email**: contact@agvallie.com
-- **Website**: [agvallie.com](https://agvallie.com) <!-- 웹사이트 링크 수정 필요 -->
-- **LinkedIn**: [AGVallie](https://linkedin.com/company/agvallie) <!-- 링크드인 링크 수정 필요 -->
-
-감사합니다! AGVallie와 함께 자동화 물류의 미래를 만들어 갑시다!
