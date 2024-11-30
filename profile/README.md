@@ -1,4 +1,5 @@
 # AGVallie
+## 📌 프로젝트 소개
 AGVallie는 삼성 CES 2024에서 선보인 IoT AI 로봇 비서 **'Ballie'**의 아이디어를 기반으로 개발된 자율형 가정 물류 로봇입니다.
 Ballie의 기본 기능 외에도, AGVallie는 다음과 같은 추가 기능을 제공합니다:
 
