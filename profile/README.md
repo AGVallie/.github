@@ -38,13 +38,15 @@ Ballie의 기본 기능 외에도, AGVallie는 다음과 같은 추가 기능을
    <td><a href="https://github.com/mellon1999"><img src="https://avatars.githubusercontent.com/u/110246155?v=4" width="100"></a></td>
 </tr>
 <tr align ="center">
-    <td>한 일 1</td>
+    <td>Embedded</td>
     <td>한 일 1</td>
     <td>Frontend</td>
     <td>Backend</td>
 </tr>
   <tr align ="center">
-    <td>한 일 2</td>
+    <td>AGV Drive<br>
+       Color Recognition<br>
+       OpenAI API<br></td>
     <td>한 일 2</td>
     <td></td>
     <td>한 일 2</td>
