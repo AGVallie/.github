@@ -48,11 +48,13 @@ Ballie의 기본 기능 외에도, AGVallie는 다음과 같은 추가 기능을
     <td>AGV Drive<br>
        Color Recognition<br>
        OpenAI API<br></td>
+         <td>한 일 2</td>
+         <td></td>
     <td>Node.js Express Server<br>
        MySQL CRUD RESTful API<br>
        OpenAI API Prompt & Handler function<br></td>
-    <td></td>
-    <td>한 일 2</td>
+
+
 </tr>
 </table>
 </p>
