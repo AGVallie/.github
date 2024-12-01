@@ -49,7 +49,8 @@ Ballie의 기본 기능 외에도, AGVallie는 다음과 같은 추가 기능을
        Color Recognition - Localization<br>
        OpenAI API - Prompt<br></td>
          <td>AGV Drive - Line tracing<br>
-            Object Following - Localization<br>
+            YOLO - Object Following<br>
+            Resnet - Line tracing<br>
             </td>
          <td></td>
     <td>Node.js Express Server<br>
