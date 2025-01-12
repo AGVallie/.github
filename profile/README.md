@@ -60,10 +60,12 @@ Ballie의 기본 기능 외에도, AGVallie는 다음과 같은 추가 기능을
 </p>
 
 ## 📹데모 영상
-[Full Video](https://www.youtube.com/watch?v=xcwLBNMgCEM&t=3s) <br>
-https://github.com/user-attachments/assets/3bea5129-cad2-4b5e-81c9-1f9222c8571f
-<br>
+[Full Video](https://www.youtube.com/watch?v=xcwLBNMgCEM&t=3s) 
 
-## 🛠️프로젝트 구성
+
+https://github.com/user-attachments/assets/3bea5129-cad2-4b5e-81c9-1f9222c8571f
+
+
+## 🛠️프로젝트 구성도
 ![볼리다이어그램 (1)](https://github.com/user-attachments/assets/03538f28-e9f5-452b-be0e-e73ec880fb9e)
 
