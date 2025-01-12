@@ -55,9 +55,10 @@ Ballie의 기본 기능 외에도, AGVallie는 다음과 같은 추가 기능을
     <td>Node.js Express Server<br>
        MySQL CRUD RESTful API<br>
        OpenAI API Prompt & Handler function<br></td>
-
-
 </tr>
 </table>
 </p>
+
+## 📹데모 영상
+[Full Video](https://www.youtube.com/watch?v=xcwLBNMgCEM&t=3s)
 
